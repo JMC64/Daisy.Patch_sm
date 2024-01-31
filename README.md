@@ -5,3 +5,5 @@ I plan to store all my files here for you to reuse. Just create an empty project
 
 * Waveshaper : read the Cpp file for more information.
 * Gerber.zip : Gerber files for patch.init() front panel
+* Clocked chaotic LFO. NB: This LFO needs an Expert Sleepers FHX-8CV module
+* Clocked LFO. NB: This LFO needs an Expert Sleepers FHX-8CV module
